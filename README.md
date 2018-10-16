@@ -77,8 +77,33 @@ Enter year: -1
 你的身高(cm) : 160
 你的體重(kg) : 45
 你的BMI = 17.6
+你的體重過輕
 
+你的身高(cm) : 160
+你的體重(kg) : 55
+你的BMI = 21.5
+你的體重屬於正常範圍
+
+你的身高(cm) : 160
+你的體重(kg) : 65
+你的BMI = 17
+你的體重過輕
+
+你的身高(cm) : 160
+你的體重(kg) : 45
+你的BMI = 17.6
+你的體重過輕
+
+你的身高(cm) : 160
+你的體重(kg) : 45
+你的BMI = 17.6
+你的體重過輕
+
+你的身高(cm) : 160
+你的體重(kg) : 45
+你的BMI = 17.6
+你的體重過輕
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjcyNTE0NzMsMTcyMjE4MDIyXX0=
+eyJoaXN0b3J5IjpbNjU4MTUxNDIwLDE3MjIxODAyMl19
 -->
