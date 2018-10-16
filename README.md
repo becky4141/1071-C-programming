@@ -7,7 +7,7 @@
 Welcome to C Programming
 My name: becky
 ````
-* [temptrans.cpp](https://github.com/becky4141/1071-c-programming/blob/master/w01/temptrans.cpp)
+* [Temperature convert](https://github.com/becky4141/1071-c-programming/blob/master/w01/temptrans.cpp)
 ````
 Enter temperature in C: 45.5
 45.5 C = 113.9 F 
@@ -24,8 +24,8 @@ x2 = 0.5
 
 ### Week02
 
-* [leap year.cpp](https://github.com/becky4141/1071-c-programming/blob/master/w02/leap%20year.cpp)
+* [Leap year](https://github.com/becky4141/1071-c-programming/blob/master/w02/leap%20year.cpp)
 * [sconds.cpp](https://github.com/becky4141/1071-c-programming/blob/master/w02/seconds.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzgxODI4OV19
+eyJoaXN0b3J5IjpbMTUwNDk2NTg0OF19
 -->
