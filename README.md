@@ -74,7 +74,11 @@ Enter year: -1
 ````
 * [BMI using while](https://github.com/becky4141/1071-c-programming/blob/master/w03/BMI.cpp)
 ````
+你的身高(cm) : 160
+你的體重(kg) : 45
+你的BMI = 17.6
+
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE3OTc2MTQsMTcyMjE4MDIyXX0=
+eyJoaXN0b3J5IjpbLTExNjcyNTE0NzMsMTcyMjE4MDIyXX0=
 -->
