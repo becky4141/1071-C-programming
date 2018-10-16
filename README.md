@@ -72,7 +72,9 @@ Enter year: 2100
 Year 2100 is not a leap year. 
 Enter year: -1
 ````
-* []
+* [BMI using while](https://github.com/becky4141/1071-c-programming/blob/master/w03/BMI.cpp)
+````
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDUzNjQxNiwxNzIyMTgwMjJdfQ==
+eyJoaXN0b3J5IjpbLTE0NzE3OTc2MTQsMTcyMjE4MDIyXX0=
 -->
