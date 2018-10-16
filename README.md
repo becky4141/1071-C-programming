@@ -90,20 +90,21 @@ Enter year: -1
 你的體重過重
 
 你的身高(cm) : 160
-你的體重(kg) : 85
+你的體重(kg) : 75
 你的BMI = 29.3
 你屬於輕度肥胖
 
 你的身高(cm) : 160
-你的體重(kg) : 45
-你的BMI = 17.6
+你的體重(kg) : 85
+你的BMI = 33.2
 你屬於中度肥胖
 
 你的身高(cm) : 160
-你的體重(kg) : 45
-你的BMI = 17.6
+你的體重(kg) : 95
+你的BMI = 37.1
 你屬於重度肥胖
 ````
+* []
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyODM2MjkxLDE3MjIxODAyMl19
+eyJoaXN0b3J5IjpbLTUyNDcwMDgwLDE3MjIxODAyMl19
 -->
