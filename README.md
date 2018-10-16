@@ -62,9 +62,17 @@ Enter seconds: -1
 ````
 * [Leap year using while loop](https://github.com/becky4141/1071-c-programming/blob/master/w03/leap%20year%202.cpp)
 ````
-Enter year: 2000 Year 2000 is a leap year. Enter year: 2018 Year 2018 is not a leap year. Enter year: 2020 Year 2020 is a leap year. Enter year: 2100 Year 2100 is not a leap year. Enter year: -1
+Enter year: 2000 
+Year 2000 is a leap year. 
+Enter year: 2018 
+Year 2018 is not a leap year. 
+Enter year: 2020 
+Year 2020 is a leap year. 
+Enter year: 2100 
+Year 2100 is not a leap year. 
+Enter year: -1
 ````
-
+* []
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTY2ODQyNCwxNzIyMTgwMjJdfQ==
+eyJoaXN0b3J5IjpbLTg1MDUzNjQxNiwxNzIyMTgwMjJdfQ==
 -->
