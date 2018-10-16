@@ -26,25 +26,25 @@ x2 = 0.5
 
 * [Leap year](https://github.com/becky4141/1071-c-programming/blob/master/w02/leap%20year.cpp)
 ````
-st run
-
-``
+-1st run
 Enter year: 2000
 Year 2000 is a leap year.
 
-2nd run
+-2nd run
 Enter year: 2018
 Year 2018 is not a leap year.
 
-3rd run
+-3rd run
 Enter year: 2020
 Year 2020 is a leap year.
 
-4th run
+-4th run
 Enter year: 2100
 Year 2100 is not a leap year.
 ````
-* [sconds.cpp](https://github.com/becky4141/1071-c-programming/blob/master/w02/seconds.cpp)
+* [Input a seconds, convert to hh:mm:ss](https://github.com/becky4141/1071-c-programming/blob/master/w02/seconds.cpp)
+````
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYyODI0NjJdfQ==
+eyJoaXN0b3J5IjpbNTcyMjQ1ODg4XX0=
 -->
