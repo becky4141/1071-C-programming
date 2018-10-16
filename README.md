@@ -104,7 +104,18 @@ Enter year: -1
 你的BMI = 37.1
 你屬於重度肥胖
 ````
-* []
+* [sum(n1,n2)](https://github.com/becky4141/1071-c-programming/blob/master/w03/sum.cpp)
+````
+Enter n1 n2: 1 10 
+sum(1,10) = 55 
+Enter n1 n2: 5 10 
+sum(5,10) = 45 
+Enter n1 n2: 10 100 
+sum(10,100) = 5005 
+Enter n1 n2: 50 100 
+sum(50,100) = 3825 
+Enter n1 n2: -1 -1
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDcwMDgwLDE3MjIxODAyMl19
+eyJoaXN0b3J5IjpbMjAwOTYzMDc2MSwxNzIyMTgwMjJdfQ==
 -->
