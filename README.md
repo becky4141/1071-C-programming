@@ -14,8 +14,12 @@ Enter temperature in C: 45.5
 Enter temperature in F: 60.7 
 60.7 F = 15.9 C
 ````
-* [equations.cpp](https://github.com/becky4141/1071-c-programming/blob/master/w01/equations.cpp)
+* [find roots for equation ax^2+bx+c=0](https://github.com/becky4141/1071-c-programming/blob/master/w01/equations.cpp)
 ````
+Enter a b c: 2 -3 1 
+For equation 2 x^2 -3 x + 1 =0, two roots are 
+x1 = 1.0 
+x2 = 0.5
 ````
 
 ### Week02
@@ -23,5 +27,5 @@ Enter temperature in F: 60.7
 * [leap year.cpp](https://github.com/becky4141/1071-c-programming/blob/master/w02/leap%20year.cpp)
 * [sconds.cpp](https://github.com/becky4141/1071-c-programming/blob/master/w02/seconds.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ1NjM1NjZdfQ==
+eyJoaXN0b3J5IjpbMTUxNDc3NDk5OV19
 -->
