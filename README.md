@@ -44,7 +44,12 @@ Year 2100 is not a leap year.
 ````
 * [Input a seconds, convert to hh:mm:ss](https://github.com/becky4141/1071-c-programming/blob/master/w02/seconds.cpp)
 ````
+Enter seconds: 20000 
+20000 seconds = 05 : 33 : 20
 ````
+### Week03
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMjQ1ODg4XX0=
+eyJoaXN0b3J5IjpbMTcyMjE4MDIyXX0=
 -->
