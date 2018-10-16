@@ -25,7 +25,26 @@ x2 = 0.5
 ### Week02
 
 * [Leap year](https://github.com/becky4141/1071-c-programming/blob/master/w02/leap%20year.cpp)
+````
+st run
+
+``
+Enter year: 2000
+Year 2000 is a leap year.
+
+2nd run
+Enter year: 2018
+Year 2018 is not a leap year.
+
+3rd run
+Enter year: 2020
+Year 2020 is a leap year.
+
+4th run
+Enter year: 2100
+Year 2100 is not a leap year.
+````
 * [sconds.cpp](https://github.com/becky4141/1071-c-programming/blob/master/w02/seconds.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDk2NTg0OF19
+eyJoaXN0b3J5IjpbNDYyODI0NjJdfQ==
 -->
