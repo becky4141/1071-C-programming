@@ -2,9 +2,9 @@
 
 ### Week01
 
-* [welcome.cpp](https://github.com/becky4141/1071-c-programming/blob/master/w01/welcome.cpp)
+* [First C programming](https://github.com/becky4141/1071-c-programming/blob/master/w01/welcome.cpp)
 ````
-Welcome to C Programing
+Welcome to C Programming
 My name: becky
 ````
 * [temptrans.cpp](https://github.com/becky4141/1071-c-programming/blob/master/w01/temptrans.cpp)
@@ -27,5 +27,5 @@ x2 = 0.5
 * [leap year.cpp](https://github.com/becky4141/1071-c-programming/blob/master/w02/leap%20year.cpp)
 * [sconds.cpp](https://github.com/becky4141/1071-c-programming/blob/master/w02/seconds.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDc3NDk5OV19
+eyJoaXN0b3J5IjpbLTQzNzgxODI4OV19
 -->
