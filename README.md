@@ -50,9 +50,18 @@ Enter seconds: 20000
 ### Week03
 * [Convert seconds using while loop](https://github.com/becky4141/1071-c-programming/blob/master/w03/seconds%202.cpp)
 ````
-Enter seconds: 20000 20000 seconds = 05:33:20 Enter seconds: 10000 10000 seconds = 02:46:40 Enter seconds: 30000 30000 seconds = 08:20:00 Enter seconds: 100000 100000 seconds = 27:46:40 Enter seconds: -1
+Enter seconds: 20000 
+20000 seconds = 05 : 33 : 20 
+Enter seconds: 10000 
+10000 seconds = 02 : 46 : 40 
+Enter seconds: 30000 
+30000 seconds = 08 : 20 : 00 
+Enter seconds: 100000
+100000 seconds = 27 : 46 : 40 
+Enter seconds: -1
 ````
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyNzE4MTA5LDE3MjIxODAyMl19
+eyJoaXN0b3J5IjpbLTE5NDMwMjI0MzEsMTcyMjE4MDIyXX0=
 -->
