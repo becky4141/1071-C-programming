@@ -138,6 +138,7 @@ Enter year: 2020
 Enter month and day: 3 1 
 61 days passed since 1/1/2020 
 Continue (Y/N)? y 
+
 Enter year: 2100 
 Enter month and day: 3 1 
 60 days passed since 1/1/2100 
@@ -149,6 +150,6 @@ original: 10 50 41 11 66 73 98 46 12 27
 sorting : 10 11 12 27 41 46 50 66 73 98
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM2Mzg1NjYsLTY1NTMxNTc4NSwtMT
+eyJoaXN0b3J5IjpbLTEyODcyOTgzODgsLTY1NTMxNTc4NSwtMT
 M0ODkxNTQ4NiwyMDA5NjMwNzYxLDE3MjIxODAyMl19
 -->
