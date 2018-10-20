@@ -121,15 +121,31 @@ Enter n1 n2: -1 -1
 ````
 Main Menu 
 1. Rectangle 
-2. 2. Vertical Triangle 
-3. 3. Exit => 
+2. Vertical Triangle 
+3. Exit => 1
 Enter height and width: 5 8 
 Main Menu
-4. Rectangle 
-5. 2. Vertical Triangle 
-6. 3. Exit => 2 Enter height and type: 5 1 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 2 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 3 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 4 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 3
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit => 2 
+Enter height and type: 5 1
+Main Menu
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit => 2 
+Enter height and type: 5 2
+Main Menu
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit => 2 
+Enter height and type: 5 3
+Main Menu
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit => 2 
+Enter height and type: 5 4
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjMxNjIxNTcsLTEzNDg5MTU0ODYsMj
-AwOTYzMDc2MSwxNzIyMTgwMjJdfQ==
+eyJoaXN0b3J5IjpbMTk0MjgxOTQ5MCwtMTM0ODkxNTQ4NiwyMD
+A5NjMwNzYxLDE3MjIxODAyMl19
 -->
