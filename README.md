@@ -117,7 +117,7 @@ sum(50,100) = 3825
 Enter n1 n2: -1 -1
 ````
 ### Week04
-* [寫一個選單，畫長方形及四種直角三角形，全部是沒有填滿(所有code放在 main() 內)](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu.cpp)
+* [menu](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu.cpp)
 ````
 Main Menu 
 1. Rectangle 
@@ -170,8 +170,10 @@ Enter height and type: 5 4
    **
     *  
 ````
-* [menu2.cpp -- drawRect(height, width, filled) & drawVertTri(height, type, filled), drawTri(height, type, filled)]
+* [menu2](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu%202.0.cpp)
+````
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzMjk2MTkzLC0xMzQ4OTE1NDg2LDIwMD
-k2MzA3NjEsMTcyMjE4MDIyXX0=
+eyJoaXN0b3J5IjpbMTYzMDc3NDAzNywtMTM0ODkxNTQ4NiwyMD
+A5NjMwNzYxLDE3MjIxODAyMl19
 -->
