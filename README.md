@@ -119,7 +119,9 @@ Enter n1 n2: -1 -1
 ### Week04
 * [menu -- drawRect (height, width)  & drawVertTri (height, type)](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu.cpp)
 * [menu2 -- drawRect(height, width, filled)  &  drawVertTri(height, width, filled)  &  drawTsoTri(height, width, filled)](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu%202.0.cpp)
+### Week05
+* [menu3 -- leap, timeconvert, add two more functions into menu](https://github.com/becky4141/1071-c-programming/blob/master/w05/menu%203.0.cpp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5ODI1MzAyLC0xMzQ4OTE1NDg2LDIwMD
-k2MzA3NjEsMTcyMjE4MDIyXX0=
+eyJoaXN0b3J5IjpbMTYxNzM1NTIwNiwtMTM0ODkxNTQ4NiwyMD
+A5NjMwNzYxLDE3MjIxODAyMl19
 -->
