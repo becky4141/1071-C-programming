@@ -120,8 +120,12 @@ Enter n1 n2: -1 -1
 * [menu -- drawRect (height, width)  & drawVertTri (height, type)](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu.cpp)
 * [menu2 -- drawRect(height, width, filled)  &  drawVertTri(height, width, filled)  &  drawTsoTri(height, width, filled)](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu%202.0.cpp)
 ### Week05
-* [menu3 -- leap, timeconvert, add two more functions into menu](https://github.com/becky4141/1071-c-programming/blob/master/w05/menu%203.0.cpp)
+* [menu3 -- leap, timeconvert](https://github.com/becky4141/1071-c-programming/blob/master/w05/menu%203.0.cpp)
+* [第一次上機考模擬題 1](https://github.com/becky4141/1071-c-programming/blob/master/w05/1.cpp)
+* [第一次上機考模擬題 2](https://github.com/becky4141/1071-c-programming/blob/master/w05/2.cpp)
+* [第一次上機考模擬題 3]()
+* [第一次上機考模擬題 4]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzM1NTIwNiwtMTM0ODkxNTQ4NiwyMD
+eyJoaXN0b3J5IjpbLTY1NTMxNTc4NSwtMTM0ODkxNTQ4NiwyMD
 A5NjMwNzYxLDE3MjIxODAyMl19
 -->
