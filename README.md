@@ -119,8 +119,17 @@ Enter n1 n2: -1 -1
 ### Week04
 * [寫一個選單，畫長方形及四種直角三角形，全部是沒有填滿(所有code放在 main() 內)](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu.cpp)
 ````
+Main Menu 
+1. Rectangle 
+2. 2. Vertical Triangle 
+3. 3. Exit => 
+Enter height and width: 5 8 
+Main Menu
+4. Rectangle 
+5. 2. Vertical Triangle 
+6. 3. Exit => 2 Enter height and type: 5 1 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 2 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 3 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 4 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 3
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzMwMTIzMCwtMTM0ODkxNTQ4NiwyMD
-A5NjMwNzYxLDE3MjIxODAyMl19
+eyJoaXN0b3J5IjpbLTE2NjMxNjIxNTcsLTEzNDg5MTU0ODYsMj
+AwOTYzMDc2MSwxNzIyMTgwMjJdfQ==
 -->
