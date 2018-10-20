@@ -130,8 +130,10 @@ Enter n1 n2: -1 -1
 * [days passed since Jan 1 of specific year](https://github.com/becky4141/1071-c-programming/blob/master/w06/daysPassed.cpp)
 * [sorting an array](https://github.com/becky4141/1071-c-programming/blob/master/w06/sort.cpp)
 ````
+original: 10 50 41 11 66 73 98 46 12 27
+sorting : 10 11 12 27 46 50 66 73
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDk4NzE0NSwtNjU1MzE1Nzg1LC0xMz
+eyJoaXN0b3J5IjpbMTE0MzIwNDQ0NCwtNjU1MzE1Nzg1LC0xMz
 Q4OTE1NDg2LDIwMDk2MzA3NjEsMTcyMjE4MDIyXX0=
 -->
