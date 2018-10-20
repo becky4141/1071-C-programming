@@ -118,9 +118,9 @@ Enter n1 n2: -1 -1
 ````
 ### Week04
 * [menu](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu.cpp)
-* [menu2](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu%202.0.cpp)
+* [menu2 -- drawRect & drawVertTri & drawTri](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu%202.0.cpp)
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjAzNzU5NTksLTEzNDg5MTU0ODYsMj
-AwOTYzMDc2MSwxNzIyMTgwMjJdfQ==
+eyJoaXN0b3J5IjpbLTM4MTg3OTIzOCwtMTM0ODkxNTQ4NiwyMD
+A5NjMwNzYxLDE3MjIxODAyMl19
 -->
