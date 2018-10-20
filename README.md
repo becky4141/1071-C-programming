@@ -170,7 +170,8 @@ Enter height and type: 5 4
    **
     *  
 ````
+* [menu2.cpp -- drawRect(height, width, filled) & drawVertTri(height, type, filled), drawTri(height, type, filled)]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODYxMDY4MiwtMTM0ODkxNTQ4NiwyMD
-A5NjMwNzYxLDE3MjIxODAyMl19
+eyJoaXN0b3J5IjpbODMzMjk2MTkzLC0xMzQ4OTE1NDg2LDIwMD
+k2MzA3NjEsMTcyMjE4MDIyXX0=
 -->
