@@ -116,11 +116,10 @@ Enter n1 n2: 50 100
 sum(50,100) = 3825 
 Enter n1 n2: -1 -1
 ````
-### Week04
-* [menu -- drawRect & drawVertTri](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu.cpp)
-* [menu2 -- drawRect & drawVertTri & drawTsoTri](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu%202.0.cpp)
+### Week04[menu -- drawRect (height, and width)& drawVertTri](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu.cpp)
+* [menu2 -- drawRect(height, width, filled)  &  drawVertTri(height, width, filled)  &  drawTsoTri(height, width, filled)](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu%202.0.cpp)
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3ODMwNDcwLC0xMzQ4OTE1NDg2LDIwMD
-k2MzA3NjEsMTcyMjE4MDIyXX0=
+eyJoaXN0b3J5IjpbMTI5MTc3ODI3NSwtMTM0ODkxNTQ4NiwyMD
+A5NjMwNzYxLDE3MjIxODAyMl19
 -->
