@@ -126,8 +126,12 @@ Enter n1 n2: -1 -1
 * [第一次上機考模擬題 3](https://github.com/becky4141/1071-c-programming/blob/master/w05/%E6%A8%A1%E6%93%AC3.cpp)
 * [第一次上機考模擬題 4](https://github.com/becky4141/1071-c-programming/blob/master/w05/%E6%A8%A1%E6%93%AC4.cpp)
 * [第一次上機考模擬題 5](https://github.com/becky4141/1071-c-programming/blob/master/w05/%E6%A8%A1%E6%93%AC5.cpp)
-
+### Week06
+* [days passed since Jan 1 of specific year](https://github.com/becky4141/1071-c-programming/blob/master/w06/daysPassed.cpp)
+* [sorting an array](https://github.com/becky4141/1071-c-programming/blob/master/w06/sort.cpp)
+````
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Nzc3NzQ0MiwtNjU1MzE1Nzg1LC0xMz
+eyJoaXN0b3J5IjpbMTAzNDk4NzE0NSwtNjU1MzE1Nzg1LC0xMz
 Q4OTE1NDg2LDIwMDk2MzA3NjEsMTcyMjE4MDIyXX0=
 -->
