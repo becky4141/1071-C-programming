@@ -117,7 +117,10 @@ sum(50,100) = 3825
 Enter n1 n2: -1 -1
 ````
 ### Week04
+* [寫一個選單，畫長方形及四種直角三角形，全部是沒有填滿(所有code放在 main() 內)](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu.cpp)
+````
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg5MTU0ODYsMjAwOTYzMDc2MSwxNz
-IyMTgwMjJdfQ==
+eyJoaXN0b3J5IjpbLTYxMzMwMTIzMCwtMTM0ODkxNTQ4NiwyMD
+A5NjMwNzYxLDE3MjIxODAyMl19
 -->
