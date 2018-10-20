@@ -121,11 +121,13 @@ Enter n1 n2: -1 -1
 * [menu2 -- drawRect(height, width, filled)  &  drawVertTri(height, width, filled)  &  drawTsoTri(height, width, filled)](https://github.com/becky4141/1071-c-programming/blob/master/w04/menu%202.0.cpp)
 ### Week05
 * [menu3 -- leap, timeconvert](https://github.com/becky4141/1071-c-programming/blob/master/w05/menu%203.0.cpp)
-* [第一次上機考模擬題 1](https://github.com/becky4141/1071-c-programming/blob/master/w05/1.cpp)
-* [第一次上機考模擬題 2](https://github.com/becky4141/1071-c-programming/blob/master/w05/2.cpp)
-* [第一次上機考模擬題 3]()
-* [第一次上機考模擬題 4]()
+* [第一次上機考模擬題 1](https://github.com/becky4141/1071-c-programming/blob/master/w05/%E6%A8%A1%E6%93%AC1.cpp)
+* [第一次上機考模擬題 2](https://github.com/becky4141/1071-c-programming/blob/master/w05/%E6%A8%A1%E6%93%AC2.cpp)
+* [第一次上機考模擬題 3](https://github.com/becky4141/1071-c-programming/blob/master/w05/%E6%A8%A1%E6%93%AC3.cpp)
+* [第一次上機考模擬題 4](https://github.com/becky4141/1071-c-programming/blob/master/w05/%E6%A8%A1%E6%93%AC4.cpp)
+* [第一次上機考模擬題 5](https://github.com/becky4141/1071-c-programming/blob/master/w05/%E6%A8%A1%E6%93%AC5.cpp)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTMxNTc4NSwtMTM0ODkxNTQ4NiwyMD
-A5NjMwNzYxLDE3MjIxODAyMl19
+eyJoaXN0b3J5IjpbMjA0Nzc3NzQ0MiwtNjU1MzE1Nzg1LC0xMz
+Q4OTE1NDg2LDIwMDk2MzA3NjEsMTcyMjE4MDIyXX0=
 -->
