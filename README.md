@@ -154,14 +154,23 @@ Main Menu
 2. Vertical Triangle 
 3. Exit => 2 
 Enter height and type: 5 3
-
+*****
+*  *
+* *
+**
+*
 Main Menu
 1. Rectangle 
 2. Vertical Triangle 
 3. Exit => 2 
 Enter height and type: 5 4
+*****
+ *  *
+  * *
+   **
+    *  
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQwMDk4OTgsLTEzNDg5MTU0ODYsMj
-AwOTYzMDc2MSwxNzIyMTgwMjJdfQ==
+eyJoaXN0b3J5IjpbMTE3ODYxMDY4MiwtMTM0ODkxNTQ4NiwyMD
+A5NjMwNzYxLDE3MjIxODAyMl19
 -->
