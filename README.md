@@ -128,12 +128,27 @@ Enter n1 n2: -1 -1
 * [第一次上機考模擬題 5](https://github.com/becky4141/1071-c-programming/blob/master/w05/%E6%A8%A1%E6%93%AC5.cpp)
 ### Week06
 * [days passed since Jan 1 of specific year](https://github.com/becky4141/1071-c-programming/blob/master/w06/daysPassed.cpp)
+````
+Enter year: 2018 
+Enter month and day: 10 16 
+289 days passed since 1/1/2018 
+Continue (Y/N)? y 
+
+Enter year: 2020 
+Enter month and day: 3 1 
+61 days passed since 1/1/2020 
+Continue (Y/N)? y 
+Enter year: 2100 
+Enter month and day: 3 1 
+60 days passed since 1/1/2100 
+Continue (Y/N)? n
+````
 * [sorting an array](https://github.com/becky4141/1071-c-programming/blob/master/w06/sort.cpp)
 ````
 original: 10 50 41 11 66 73 98 46 12 27
-sorting : 10 11 12 27 46 50 66 73
+sorting : 10 11 12 27 41 46 50 66 73 98
 ````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzIwNDQ0NCwtNjU1MzE1Nzg1LC0xMz
-Q4OTE1NDg2LDIwMDk2MzA3NjEsMTcyMjE4MDIyXX0=
+eyJoaXN0b3J5IjpbLTE3MDM2Mzg1NjYsLTY1NTMxNTc4NSwtMT
+M0ODkxNTQ4NiwyMDA5NjMwNzYxLDE3MjIxODAyMl19
 -->
